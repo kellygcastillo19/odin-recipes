@@ -10,7 +10,10 @@ a:active {
     color: black;
 }
 
-.background-home {
+.body-home {
     background-color: #da0;
-    color: black;
+}
+
+.body-recipe {
+    background-color: #17354e;
 }
