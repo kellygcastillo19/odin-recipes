@@ -10,6 +10,11 @@ a:active {
     color: black;
 }
 
+img {
+    width: 550px;
+    height: auto;
+}
+
 .body-home {
     background-color: #da0;
 }
