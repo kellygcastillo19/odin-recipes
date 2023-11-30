@@ -12,3 +12,10 @@ Using HTML:
 - Utilized headings, paragraphs, lists, and links to structure content.
 - Created links between different HTML pages within the project.
 - Incorporated images into HTML pages to enhance visual content.
+
+Using CSS:
+- Applied external CSS for styling the recipe pages.
+- Utilized the external CSS method to organize and separate styling from HTML.
+- Experimented with various CSS properties, including color, background color, and typography properties.
+- Used generic font families and web-safe fonts for consistent display across different devices.
+- Used class and ID selectors to apply styles to individual elements or groups of elements.
