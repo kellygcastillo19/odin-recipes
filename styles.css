@@ -15,6 +15,10 @@ img {
     height: auto;
 }
 
+li {
+    display: inline;
+}
+
 .body-home {
     background-color: #da0;
     font-weight: bold;
