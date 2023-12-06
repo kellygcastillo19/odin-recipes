@@ -19,3 +19,4 @@ Using CSS:
 - Experimented with various CSS properties, including color, background color, and typography properties.
 - Used generic font families and web-safe fonts for consistent display across different devices.
 - Used class and ID selectors to apply styles to individual elements or groups of elements.
+- Demonstrated understanding of the box model by manipulating the size of boxes and the space between them, using padding, margin, and border.
