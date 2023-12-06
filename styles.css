@@ -20,6 +20,11 @@ li {
     padding: 10px 20px;
 }
 
+ul {
+    margin: 30px auto;
+    padding: 20px;
+}
+
 .body-home {
     background-color: #da0;
     font-weight: bold;
